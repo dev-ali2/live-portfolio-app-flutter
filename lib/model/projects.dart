@@ -12,7 +12,7 @@ class MyProjects {
         'Only high speed locations around the globe',
         'Multiple themes to make it truly yours',
         'NO bombardment of ads!',
-        'Clean and minimilistic design',
+        'Clean and modern design',
         'Easy to use for even a non techy person',
         'Clear privacy policy',
         'No data sharing to third parties',
@@ -21,6 +21,7 @@ class MyProjects {
         'Flutter',
         'Supabase',
         'Useful APIs',
+        'MVC architecture using Get X',
         'Open Vpn servers',
         'Admob integration',
         'Google\'s in-app purchases '
