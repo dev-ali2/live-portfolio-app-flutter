@@ -24,8 +24,8 @@ class AssetProvider with ChangeNotifier {
     final ByteData techSectionImage =
         await rootBundle.load(CustomAssets.techSectionImage);
     //Project banners
-    final ByteData azaadiVpn =
-        await rootBundle.load('assets/images/portfolio/azaadivpn.png');
+    final ByteData aazadi = await rootBundle
+        .load('assets/images/portfolio/aazadi_banner_portfolio.png');
     final ByteData convoConnect =
         await rootBundle.load('assets/images/portfolio/convoconnect2.png');
     final ByteData portfoliosite =

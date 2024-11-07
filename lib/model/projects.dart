@@ -3,10 +3,10 @@ import 'package:simple_icons/simple_icons.dart';
 class MyProjects {
   static List<Map> projects = [
     {
-      'banner': 'assets/images/portfolio/azaadivpn.png',
+      'banner': 'assets/images/portfolio/aazadi_banner_portfolio.png',
       'type': 'Project',
-      'name': 'Azaadi Vpn',
-      'descriptionLine': 'Fight censorship, fuel freedom',
+      'name': 'Aazadi',
+      'descriptionLine': 'Privacy focused vpn app',
       'features': [
         'One click connect',
         'Only high speed locations around the globe',
@@ -30,7 +30,7 @@ class MyProjects {
           'icon': SimpleIcons.googleplay,
           'platformName': ' Play Store',
           'link':
-              'https://play.google.com/store/apps/details?id=com.azaadi.vpn.android.app'
+              'https://play.google.com/store/apps/details?id=com.aazadi.dev.ali'
         },
       ]
     },
